@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @code-kami
+- 👀 I’m interested in machine learning and software deveopment.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on software projects and data science projects that'll increase my experience.
+- 📫 How to reach me - gideoneniolaayomide@gmail.com
+
+<!---
+code-kami/code-kami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
