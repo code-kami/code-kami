@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-kami
-- 👀 I’m interested in machine learning and software deveopment.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in software deveopment.
+- 🌱 I’m currently learning mobile app development using flutter.
 - 💞️ I’m looking to collaborate on software projects and data science projects that'll increase my experience.
 - 📫 How to reach me - gideoneniolaayomide@gmail.com
 
